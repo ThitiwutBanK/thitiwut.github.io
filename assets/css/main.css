@@ -154,9 +154,7 @@ input, select, textarea {
 			color: #f2849e !important;
 		}
 
-	strong, b {
-		font-weight: 900;
-	}
+	
 
 	em, i {
 		font-style: italic;
